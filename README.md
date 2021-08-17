@@ -4,7 +4,7 @@
 
 project 1: Java,
 
- implement a Polynomial Calculator-using 'visitor' Diesighn Pattern
+ implement a Polynomial Calculator-using 'visitor' Design Pattern
  
 project 2: C++,
 
