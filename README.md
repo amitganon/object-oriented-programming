@@ -4,18 +4,18 @@
 
 project 1: Java,
 
- implement a Polynomial Calculator-using 'visitor' Design Pattern
+ Implement a Polynomial Calculator-using 'visitor' Design Pattern
  
 project 2: C++,
 
-  implement 'Messages' between classes
+  Implement 'Messages' between classes
   Instances and Initialization
 
 ## project 3:
 Java, a full business layer,
 
-single-player multi-level version of a dungeons and dragons board
+Single-player multi-level version of a dungeons and dragons board
 game.
 
-using 'visitor','factory', 'callBack/Observer' patterns
+Using 'visitor','factory', 'callBack/Observer' patterns
   
