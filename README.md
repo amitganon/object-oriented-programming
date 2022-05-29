@@ -1,4 +1,4 @@
-# object-oriented-programming
+# Object-Oriented-Programming
 
 **each project contains a class diagram
 
